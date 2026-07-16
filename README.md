@@ -25,9 +25,11 @@ Your footage never leaves your Mac, and your projects save automatically.
 
 ## A look inside
 
-| Your footage library | Brand styling, live |
+| Organise projects into folders | Your footage library |
 |---|---|
-| ![Media panel](screenshots/media.png) | ![Brand element gallery](screenshots/brand-gallery.png) |
+| ![Project home with folders](screenshots/projects.png) | ![Media panel](screenshots/media.png) |
+| **Brand styling, live** | **Guided setup** |
+| ![Brand element gallery](screenshots/brand-gallery.png) | ![Details setup tab](screenshots/details.png) |
 
 ---
 
