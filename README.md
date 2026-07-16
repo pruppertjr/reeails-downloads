@@ -9,17 +9,19 @@ REEAILS turns your own footage into polished, on-brand vertical (9:16) videos. D
 
 ## ⬇ Download
 
-### → [**Download for Mac**](https://github.com/pruppertjr/reeails-downloads/releases/latest/download/REEAILS-mac.dmg)
+### → [**Download for Mac**](https://github.com/pruppertjr/reeails-downloads/releases/latest/download/REEAILS-mac.dmg) &nbsp;·&nbsp; [**Download for Windows**](https://github.com/pruppertjr/reeails-downloads/releases/latest/download/REEAILS-win.exe)
 
-For Apple-Silicon Macs (M1 / M2 / M3). You'll need an access token — [request one](mailto:peter@anxietyfitness.com).
+Mac (Apple Silicon) or Windows. You'll need an access token — [request one](mailto:peter@anxietyfitness.com).
 
 ## Install
 
-1. Open the downloaded file and drag **REEAILS** into your **Applications** folder.
-2. Launch it — **the first time, right-click the app → Open** (then Open again to confirm).
-3. Click the **🔑** in the top-right and paste your **access token** → Save.
+**Mac:** open the `.dmg`, drag **REEAILS** into Applications, then launch it — **the first time, right-click the app → Open** (then Open again to confirm).
 
-Your footage never leaves your Mac, and your projects save automatically.
+**Windows:** run the `.exe` installer. If Windows shows a "protected your PC" screen, click **More info → Run anyway** (it's just because the app isn't code-signed yet).
+
+Then click the **🔑** in the top-right and paste your **access token** → Save.
+
+Your footage never leaves your computer, and your projects save automatically.
 
 ---
 
